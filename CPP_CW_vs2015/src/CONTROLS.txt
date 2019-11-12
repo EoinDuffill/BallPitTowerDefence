@@ -1,0 +1,26 @@
+CONTROLS-
+
+MENU - 
+
+arrow keys	 - move pointer around
+mouse button left- move pointer around
+Enter		 - Enter current selection
+Escape		 - Close game
+
+GAME - 
+
+Primary--
+Escape 		 - Return to menu
+Space 		 - Start next wave (if wave is over)
+Pause/Unpause 	 - click onscreen button
+
+Secondary--
+place turret 	 - left click on a valid tile, selected turret will be placed if affordable
+show turret range- left click a turret, will be shown while game is paused
+change turret sel- left click on the turret in the ui, selection will be changed
+
+HIGHSCORES - 
+
+Escape 		 - Return to menu
+Left/Right arrows- Selects which levels highscores to show
+
