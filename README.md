@@ -1,2 +1,3 @@
 # BallPitTowerDefence
-This is a tower defence game I created as a part of coursework for a C++ programming module
+Top down tower defence game. 
+C++ programming coursework (1:1)
